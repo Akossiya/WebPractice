@@ -1,0 +1,191 @@
+
+
+*,*::after, *::before {
+    box-sizing: border-box;
+}
+
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+p,a,h1,h2,h3,li, span {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 85vh 15vh;
+}
+/** left box **/
+.container .left-box {
+    background-color: #1786ca; 
+    background-image: url("./twitter.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: right;  */
+    grid-column: 1/2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container .left-box ul li {
+    list-style-type: none;
+    font-size: 17px;
+    line-height: 24px;
+    margin: 50px 0;
+    font-weight: bold;
+    color: white;
+}
+
+.container .left-box ul li .icon{
+    font-size: 22px;
+    margin-right: 10px;
+}
+/** end left box **/
+
+
+/**right box **/
+.container .right-box {
+    background-color: white;
+    grid-column: 2/-1;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.container .right-box .top {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+
+.container .right-box .top .input-group a{
+    font-size: 12px;
+    color: blueviolet;
+}
+
+.container .right-box .top .input-group a:hover{
+    text-decoration: underline;
+}
+
+input[type="text"]{
+    border: 1px solid #e6ecf0;
+    border-radius: 3px;
+    padding: 12px;
+    display: block;
+}
+
+.input-group{
+    margin-right: 12px;
+}
+
+.container .right-box .card{
+    min-width: 300px;
+    padding: 90px 60px;
+}
+
+.container .right-box .card .head{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container .right-box .card .head .logo-icon{
+    font-size: 3em;
+    color: #1da1f2;
+    margin-left: 100px;
+}
+
+.container .right-box .card h1{
+    font-size: 30px;
+    line-height: 40px;
+    color: rgb(0, 0, 0);
+    margin-left: 100px;
+}
+
+.container .right-box .card p{
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+/**end right box **/
+
+
+/**start bottom box**/
+.container .bottom-box {
+    grid-column: 1/-1;
+    border-top: 1px solid #e6ecf0;
+}
+
+.container .bottom-box ul{
+    text-align: center;
+}
+
+.container .bottom-box ul li{
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.container .bottom-box ul li a{
+    text-decoration: none;
+    font-size: 12px;
+    color: #aab8c2;;
+}
+
+.container .bottom-box ul li a:hover{
+    text-decoration: underline;
+}
+
+
+/**end bottom box**/
+
+/*** buttons ***/
+button.btn {
+    display: block;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 6px 16px;
+    border-radius: 100px;
+    font-weight: bold;
+}
+
+button.block {
+    width: 60%;
+    height: 13%;
+    margin-bottom: .8rem;
+    margin-left: 100px;
+}
+
+button.primary {
+    background-color: #1da1f2;
+    color: white;
+}
+
+button.primary:hover{
+    background-color: #3e98cf;
+}
+
+button.outline {
+    background-color: white;
+    color: #1da1f2;
+    border: 1px solid #1da1f2;
+}
+
+button.outline.first {
+    height: 40px;
+}
+
+button.outline:hover{
+    background-color: rgb(235, 223, 223);
+}
+
+
