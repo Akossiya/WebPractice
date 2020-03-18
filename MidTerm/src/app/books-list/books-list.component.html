@@ -1,0 +1,11 @@
+<h2>books list</h2>
+<div *ngFor="let book of books">
+    <h3>
+      <a [title]="book.title + ' details'" [routerLink]="['/books/' + book.id]">
+        {{ book.title }}
+      </a>
+    </h3>
+    <p *ngIf="book.description">
+      Description: {{ book.description }}
+    </p>
+</div>

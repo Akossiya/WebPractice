@@ -1,0 +1,11 @@
+<h2>Categories</h2>
+<div class="box">
+  <div *ngFor="let category of categories, index as categoryId"  id="category" class="btn">
+    <h3>
+      <a [title]="category.name + ' details'" [routerLink]="['/products', categoryId]">
+        {{ category.name }}
+      </a>
+    </h3>
+  </div>
+
+</div>

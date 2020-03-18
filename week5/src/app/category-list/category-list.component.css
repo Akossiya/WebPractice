@@ -1,0 +1,11 @@
+.box{
+  flex-flow: row;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.btn{
+  margin: 0 15px;
+}
+
