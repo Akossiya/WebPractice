@@ -10,8 +10,7 @@ import {ProductListService} from '../product-list.service';
   styleUrls: ['./product-list.component.css']
 })
 export class ProductListComponent implements OnInit {
-  products = products
-  ;
+  products = products;
   category;
   constructor(
     private route: ActivatedRoute, private service: ProductListService

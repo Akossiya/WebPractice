@@ -1,6 +1,6 @@
 <h2>Products</h2>
 <div *ngFor="let product of products; index as productId">
-  <div *ngIf="product.category == category.name">
+  <div *ngIf="product.category == category.name || product.name == 'Все категории'">
   <h3>
     <a [title]="product.name + ' details'" [routerLink]="['/products', productId]">
       {{ product.name }}
