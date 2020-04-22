@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9641d4ef-c0e7-42c6-935a-0a1a88035b3f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/categories.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/categories/categories.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/categories/categories.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/categories/categories.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/categories/categories.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/category.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/interfaces/admin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/interfaces/category.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/interfaces/product.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/interfaces/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/navigation/navigation.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/navigation/navigation.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/navigation/navigation.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/navigation/navigation.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/product-item/product-item.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/product-item/product-item.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/product-item/product-item.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/product-item/product-item.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/product-list.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/product-list/product-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/product-list/product-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/product-list/product-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/products.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/top-bar/top-bar.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/top-bar/top-bar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/app/top-bar/top-bar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/main/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/akame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/cyberpank-2077.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/hero-academia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/jhon-wick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/marvel-cases.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/monopoly.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/rias-gremory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/rick-and-morty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/stickers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/temari.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/yato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/products/yuno-gasai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/shipping.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/top-bar/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/top-bar/social/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/top-bar/social/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/assets/top-bar/social/whatsapp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-market — копия/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../my-app/my-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonprac/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonprac/1.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1asoMTJWTfm3GUhrExlPi2BnBsw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9641d4ef-c0e7-42c6-935a-0a1a88035b3f" name="Default Changelist" comment="" />
+      <created>1587533613617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587533613617</updated>
+    </task>
+    <servers />
+  </component>
+</project>
